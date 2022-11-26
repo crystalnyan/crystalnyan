@@ -1,4 +1,7 @@
-## Welcome~
+<p>
+    <a href="https://t.me/nyanblog"><img src="./nyan.png" alt="nyan welcome img"></a>
+</p>
+
 ### Meow is an Open Source Developer~nyan! 💕
 
 Escaped corporate legacy backend development to become a ✨purrfect✨
