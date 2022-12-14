@@ -1,29 +1,11 @@
 <p>
-    <a href="https://t.me/nyanblog"><img src="./nyan.png" alt="nyan welcome img"></a>
+    <a href="https://t.me/nyanblog"><img src="./welcome.png" alt="nyan welcome img"></a>
 </p>
 
-### Meow is an Open Source Developer~nyan! 💕
+<p>
+    <img src="./about.png" alt="nyan about img">
+</p>
 
-Escaped corporate legacy backend development to become a ✨purrfect✨
-<br>software engineer putting effort in making shitty industry a lil better 🥰
-
-<details>
-  <summary>
-  <b>About 👾</b>
-  </summary>
-  
- - 22 y.o dev
- - Support mainer
- - Anime appreciator
- 
-</details>
-
-<details>
-  <summary>
-  <b>Accomplishments ⭐️</b>
-  </summary>
-  
- - Sturgeon Scholarship holder
- - Tumaris.Tech winner
- 
-</details>
+<p>
+    <img src="./perks.png" alt="nyan perks img">
+</p>
