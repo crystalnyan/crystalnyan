@@ -1,5 +1,5 @@
 <p>
-    <a href="https://twitter.com/crystalnyan_"><img src="./welcome.png" alt="nyan welcome img"></a>
+    <a href="https://t.me/nyanblog"><img src="./welcome.png" alt="nyan welcome img"></a>
 </p>
 
 <p>
